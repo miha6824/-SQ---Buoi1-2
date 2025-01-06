@@ -11,10 +11,10 @@ Sử dụng các cấu trúc điều khiển (if-else, đệ quy, vòng lặp) v
 3. Mã kiểm thử với JUnit
 ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20194558.png)
 4. Kết quả chạy test và mức độ bao phủ 
-![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20194750.png)
-![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20194734.png)
+         ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20194750.png)
+         ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20194734.png)
 5. Bổ sung ca kiểm thử để đạt 100% Coverage
    Bổ sung thêm 3 hàm sau: 
-  ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20201946.png)
+        ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20201946.png)
 và kết quả đạt được
-![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20201753.png)
+         ![Mô tả ảnh](https://github.com/miha6824/image/blob/main/Screenshot%202025-01-06%20201753.png)
